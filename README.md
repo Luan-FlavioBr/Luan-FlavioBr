@@ -6,6 +6,8 @@
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-flaviobr&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-flaviobr&layout=compact)
 
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 ## Tecnologias que uso no meu dia a dia!
 
 <div style="display: inline-block">
